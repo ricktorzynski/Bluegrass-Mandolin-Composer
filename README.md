@@ -1,6 +1,6 @@
 # Bluegrass Mandolin Picker
 
-This is a clone of Classic-Piano-Composer, https://github.com/Skuldur/Classical-Piano-Composer and instead of piano music, I used bluegrass mandolin songs from Mandolin Cafe TablEdit Library (converted to midi), https://www.mandolincafe.com/cgi-bin/tabledit/search?name=Bluegrass
+This is a clone of Classic-Piano-Composer, https://github.com/Skuldur/Classical-Piano-Composer and instead of piano music, I used bluegrass mandolin songs from Mandolin Cafe TablEdit Library (converted to midi), https://www.mandolincafe.com/cgi-bin/tabledit/search?name=Bluegrass for training.
 
 
 
