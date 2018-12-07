@@ -2,6 +2,8 @@
 
 This is a clone of Classic-Piano-Composer, https://github.com/Skuldur/Classical-Piano-Composer and instead of piano music, I used bluegrass mandolin songs from Mandolin Cafe TablEdit Library (converted to midi), https://www.mandolincafe.com/cgi-bin/tabledit/search?name=Bluegrass for training.
 
+I converted the TablEdit files of the songs into midi files.  I trained the model on a Linux computer running Ubuntu 18.04 with 32GB RAM and a GeForce GTX 1070 Ti graphics card.  Took approximately 10 hours to train the model and 30secs to generated 2 minutes of random music.
+
 
 
 
